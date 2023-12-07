@@ -1,2 +1,2 @@
-# BADE.github.io
+# GrupoBADE.github.io
 Bade
